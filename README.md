@@ -19,6 +19,6 @@ Compared to the initial tutorial, this project is more complete :
 Grégory Bersegeay : http://www.gbesoft.fr
 
 Some screenshots :
-<img src="https://github.com/gbegreg/FMXCorridor/capture1.png">
-<img src="https://github.com/gbegreg/FMXCorridor/capture2.png">
-<img src="https://github.com/gbegreg/FMXCorridor/capture3.png">
+<img src="https://github.com/gbegreg/FMXCorridor/img/capture1.png">
+<img src="https://github.com/gbegreg/FMXCorridor/img/capture2.png">
+<img src="https://github.com/gbegreg/FMXCorridor/img/capture3.png">
