@@ -16,6 +16,8 @@ Compared to the initial tutorial, this project is more complete :
 - select level
 - challenge supplémentaire : additional challenge: try to do as little referral as possible per level. This information is stored in user's directory.
 
+The Android version is available on Play Store : https://play.google.com/store/apps/details?id=fr.gbesoft.FMXCorridor, other versions (Windows and Mac OS) are available on my site : http://gbesoft.fr/fmxcorridor.php.
+
 Grégory Bersegeay : http://www.gbesoft.fr
 
 Some screenshots :
