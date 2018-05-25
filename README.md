@@ -24,6 +24,9 @@ https://github.com/gbegreg/demoParis
 
 Grégory Bersegeay : http://www.gbesoft.fr
 
+Video :
+<iframe width="700" height="393" src="https://www.youtube.com/embed/Dnc4CVbXO38" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Some screenshots :
 
 <img src="https://github.com/gbegreg/FMXCorridor/blob/master/img/capture1.png">
