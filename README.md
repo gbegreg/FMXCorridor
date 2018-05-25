@@ -24,8 +24,7 @@ https://github.com/gbegreg/demoParis
 
 Grégory Bersegeay : http://www.gbesoft.fr
 
-Video :
-<iframe width="700" height="393" src="https://www.youtube.com/embed/Dnc4CVbXO38" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<a href="https://www.youtube.com/embed/Dnc4CVbXO38">Video on Youtube</a>
 
 Some screenshots :
 
