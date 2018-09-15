@@ -20,7 +20,9 @@ The Android version is available on Play Store : https://play.google.com/store/a
 
 See my other games with Delphi and Firmaonkey :<br>
 https://github.com/gbegreg/FMXPong<br>
-https://github.com/gbegreg/demoParis
+https://github.com/gbegreg/demoParis<br>
+A small open 3D world :
+https://github.com/gbegreg/FMXISland
 
 Grégory Bersegeay : http://www.gbesoft.fr
 
