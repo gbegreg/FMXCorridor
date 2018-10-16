@@ -18,7 +18,7 @@ Compared to the initial tutorial, this project is more complete :
 
 The Android version is available on Play Store : https://play.google.com/store/apps/details?id=fr.gbesoft.FMXCorridor, other versions (Windows and Mac OS) are available on my site : http://gbesoft.fr/fmxcorridor.php.
 
-See my other games with Delphi and Firmaonkey :<br>
+See my other games with Delphi and Firmeonkey :<br>
 https://github.com/gbegreg/FMXPong<br>
 https://github.com/gbegreg/demoParis<br>
 A small open 3D world :
